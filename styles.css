@@ -280,6 +280,13 @@ html
 	text-align:left;
 }
 
+.skills{
+	display:flex;
+	flex-wrap:wrap;
+	text-align:left;
+	margin-right:5rem;
+}
+
 .bulle
 {
 	box-shadow:0px 0px 10px gray;
@@ -287,7 +294,6 @@ html
 	padding:0.7rem;
 	margin:0.8rem;
 	margin-left:2rem;
-	margin-right:auto;
 	font-size:1.3rem;
 	font-weight:bold;
 	color:#565656;
