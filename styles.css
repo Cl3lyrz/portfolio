@@ -41,6 +41,23 @@ html
 	color : #B57EDC;
 }
 
+.introPhoto
+{
+	display:flex;
+	flex-direction:row;
+}
+
+#PP
+{
+	height:300px;
+	border-radius:100%;
+	margin-left:8vw;
+	margin-top:4vw;
+	margin-right:1vw;
+	margin-bottom:2vw;
+}
+
+
 #intro
 {
 	display:flex;
